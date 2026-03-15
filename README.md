@@ -6,5 +6,5 @@ https://www.figma.com/proto/2O1HEXA67gCzDA3SYcZozH/Burger-Restaurant?node-id=68-
 In the implementation phase, the design was translated into a functional website using Visual Studio Code, HTML, and CSS.
 The final product was deployed publicly for online access.
 Live website:
-[https://trandiem-cmd.github.io/HTML-UI-Final-exercise---Burger-restaurant/](https://trandiem-cmd.github.io/HTML-CSS-Burger-restaurant-project/)
+https://trandiem-cmd.github.io/HTML-CSS-Burger-restaurant-project/
 For the best user experience, the website is optimized for mobile devices and should be viewed on a smartphone.
